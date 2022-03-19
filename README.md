@@ -29,10 +29,6 @@
 ---
 ### :man_technologist: About me
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :telescope: Frontend developer with 1.5 years commercial experiance
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Edward-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edward-arechwa-5986971a2/)
